@@ -29,10 +29,6 @@ ApacheCN: http://beam.apachecn.org/
 
 * [@wangyangting](https://github.com/wangyangting)（那伊抹微笑）
 
-## 联系方式
-有任何建议反馈, 或想参与文档翻译, 麻烦联系下面的企鹅:
-* 企鹅: 1042658081
-
 ## 其它中文文档
 * [TensorFlow R1.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10030122)
 * [Sklearn 0.18 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10030181)
