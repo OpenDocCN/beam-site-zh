@@ -5,10 +5,10 @@ Apache Beam: 一个高级且统一的编程模型.
 
 ## 维护地址
 github: https://github.com/apachecn/beam-site-zh/  
-ApacheCN: http://beam.apachecn.org/
+ApacheCN: http://beam.flygon.net/
 
 ## 翻译进度
-<http://beam.apachecn.org/project/translate-progress.html>
+<http://beam.flygon.net/project/translate-progress.html>
 
 ## 工具使用（针对新手）
 工欲善其事, 必先利其器 ...  
@@ -30,12 +30,12 @@ ApacheCN: http://beam.apachecn.org/
 * [@wangyangting](https://github.com/wangyangting)（那伊抹微笑）
 
 ## 其它中文文档
-* [TensorFlow R1.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10030122)
-* [Sklearn 0.18 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10030181)
-* [Spark 2.2.0 中文文档](http://spark.apachecn.org/docs/cn/2.2.0/)
-* [Spark 2.0.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=2883613)
-* [Storm 1.1.0 中文文档](http://storm.apachecn.org/releases/cn/1.1.0/)
-* [Kudu 1.4.0 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10813594)
-* [Zeppelin 0.7.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10030467)
-* [Elasticsearch 5.4 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=4260364)
-* [Kibana 5.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=8159377)
+* [TensorFlow R1.2 中文文档](http://cwiki.flygon.net/pages/viewpage.action?pageId=10030122)
+* [Sklearn 0.18 中文文档](http://cwiki.flygon.net/pages/viewpage.action?pageId=10030181)
+* [Spark 2.2.0 中文文档](http://spark.flygon.net/docs/cn/2.2.0/)
+* [Spark 2.0.2 中文文档](http://cwiki.flygon.net/pages/viewpage.action?pageId=2883613)
+* [Storm 1.1.0 中文文档](http://storm.flygon.net/releases/cn/1.1.0/)
+* [Kudu 1.4.0 中文文档](http://cwiki.flygon.net/pages/viewpage.action?pageId=10813594)
+* [Zeppelin 0.7.2 中文文档](http://cwiki.flygon.net/pages/viewpage.action?pageId=10030467)
+* [Elasticsearch 5.4 中文文档](http://cwiki.flygon.net/pages/viewpage.action?pageId=4260364)
+* [Kibana 5.2 中文文档](http://cwiki.flygon.net/pages/viewpage.action?pageId=8159377)
